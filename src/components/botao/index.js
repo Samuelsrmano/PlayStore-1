@@ -43,7 +43,6 @@ const estilo = StyleSheet.create({
         width:'45%',
         alignItems:'center',
         justifyContent:'flex-start',
-
         fontSize:12,
         color:'white',
         flexDirection:'row',
